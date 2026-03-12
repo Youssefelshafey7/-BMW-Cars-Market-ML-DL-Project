@@ -1,0 +1,14 @@
+reference :https://www.kaggle.com/datasets/tahaberkterekli/bmw-cars-market-dataset
+-Data set ( 500 ~ 1000 record )
+-Do some Preprocessing ( Cleaning, Filtering, Fuzzification testing )
+( Split the data into Training set, Testing set, validation set )
+Apply the following:
+Decision tree
+Random Forest
+3 NN Models ( DNN, LSTM, 1D CNN ) and compare between them through a Diagram
+K means Clustering
+Fuzzy Logic ( Fuzzification, Defuzzification ) "when needed"
+Try some Activation Functions such as: RelU, Linear, Sigmoid.
+Come up with the following:
+Accuracy, Recall, Precision, F1 Score
+Perform Visualization Diagrams for each algorithm and Neural network model applied and compare between them to come up with the most suitable ones for your dataset.
